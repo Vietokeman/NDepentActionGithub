@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED67EF6E-BC74-41CC-8025-0C9714DE5971}|StudentTesterV4\\StudentTesterV4.csproj|e:\\ki5-fpt\\prn-212\\session03-oop\\studentmanager\\studenttesterv4\\studenttesterv4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED67EF6E-BC74-41CC-8025-0C9714DE5971}|StudentTesterV4\\StudentTesterV4.csproj|solutionrelative:studenttesterv4\\studenttesterv4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A7066F-2702-4104-9719-62E2C3ECD7F1}|StudentTesterV5\\StudentTesterV5.csproj|e:\\ki5-fpt\\prn-212\\session03-oop\\studentmanager\\studenttesterv5\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A7066F-2702-4104-9719-62E2C3ECD7F1}|StudentTesterV5\\StudentTesterV5.csproj|solutionrelative:studenttesterv5\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A7066F-2702-4104-9719-62E2C3ECD7F1}|StudentTesterV5\\StudentTesterV5.csproj|e:\\ki5-fpt\\prn-212\\session03-oop\\studentmanager\\studenttesterv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A7066F-2702-4104-9719-62E2C3ECD7F1}|StudentTesterV5\\StudentTesterV5.csproj|solutionrelative:studenttesterv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED67EF6E-BC74-41CC-8025-0C9714DE5971}|StudentTesterV4\\StudentTesterV4.csproj|e:\\ki5-fpt\\prn-212\\session03-oop\\studentmanager\\studenttesterv4\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED67EF6E-BC74-41CC-8025-0C9714DE5971}|StudentTesterV4\\StudentTesterV4.csproj|solutionrelative:studenttesterv4\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED67EF6E-BC74-41CC-8025-0C9714DE5971}|StudentTesterV4\\StudentTesterV4.csproj|e:\\ki5-fpt\\prn-212\\session03-oop\\studentmanager\\studenttesterv4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED67EF6E-BC74-41CC-8025-0C9714DE5971}|StudentTesterV4\\StudentTesterV4.csproj|solutionrelative:studenttesterv4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D7CBDA-2301-418C-8981-3D8579B237C9}|StudentTesterV3\\StudentTesterV3.csproj|e:\\ki5-fpt\\prn-212\\session03-oop\\studentmanager\\studenttesterv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D7CBDA-2301-418C-8981-3D8579B237C9}|StudentTesterV3\\StudentTesterV3.csproj|solutionrelative:studenttesterv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D7CBDA-2301-418C-8981-3D8579B237C9}|StudentTesterV3\\StudentTesterV3.csproj|e:\\ki5-fpt\\prn-212\\session03-oop\\studentmanager\\studenttesterv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D7CBDA-2301-418C-8981-3D8579B237C9}|StudentTesterV3\\StudentTesterV3.csproj|solutionrelative:studenttesterv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D7CBDA-2301-418C-8981-3D8579B237C9}|StudentTesterV3\\StudentTesterV3.csproj|e:\\ki5-fpt\\prn-212\\session03-oop\\studentmanager\\studenttesterv3\\studenttesterv3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55D7CBDA-2301-418C-8981-3D8579B237C9}|StudentTesterV3\\StudentTesterV3.csproj|solutionrelative:studenttesterv3\\studenttesterv3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFF5B1B-A4FA-429C-A9FE-C53E366E29F4}|StudentTester\\StudentTester.csproj|e:\\ki5-fpt\\prn-212\\session03-oop\\studentmanager\\studenttester\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFF5B1B-A4FA-429C-A9FE-C53E366E29F4}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFF5B1B-A4FA-429C-A9FE-C53E366E29F4}|StudentTester\\StudentTester.csproj|e:\\ki5-fpt\\prn-212\\session03-oop\\studentmanager\\studenttester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFF5B1B-A4FA-429C-A9FE-C53E366E29F4}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFF5B1B-A4FA-429C-A9FE-C53E366E29F4}|StudentTester\\StudentTester.csproj|e:\\ki5-fpt\\prn-212\\session03-oop\\studentmanager\\studenttester\\studenttester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BFF5B1B-A4FA-429C-A9FE-C53E366E29F4}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\studenttester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9269C29-7058-459D-A518-4852519C7BD1}|StudentTesterV2\\StudentTesterV2.csproj|e:\\ki5-fpt\\prn-212\\session03-oop\\studentmanager\\studenttesterv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9269C29-7058-459D-A518-4852519C7BD1}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9269C29-7058-459D-A518-4852519C7BD1}|StudentTesterV2\\StudentTesterV2.csproj|e:\\ki5-fpt\\prn-212\\session03-oop\\studentmanager\\studenttesterv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9269C29-7058-459D-A518-4852519C7BD1}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentTesterV4",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV4\\StudentTesterV4.csproj",
+              "RelativeDocumentMoniker": "StudentTesterV4\\StudentTesterV4.csproj",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV4\\StudentTesterV4.csproj",
+              "RelativeToolTip": "StudentTesterV4\\StudentTesterV4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T08:39:24.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV5\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTesterV5\\Entities\\Student.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV5\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTesterV5\\Entities\\Student.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwB4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:56:52.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV5\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV5\\Program.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV5\\Program.cs",
+              "RelativeToolTip": "StudentTesterV5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:56:28.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV4\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTesterV4\\Entities\\Student.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV4\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTesterV4\\Entities\\Student.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwC0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:45:05.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV4\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV4\\Program.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV4\\Program.cs",
+              "RelativeToolTip": "StudentTesterV4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:44:37.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentTesterV3.csproj",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV3\\StudentTesterV3.csproj",
+              "RelativeDocumentMoniker": "StudentTesterV3\\StudentTesterV3.csproj",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV3\\StudentTesterV3.csproj",
+              "RelativeToolTip": "StudentTesterV3\\StudentTesterV3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T09:00:24.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentTester.csproj",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTester\\StudentTester.csproj",
+              "RelativeDocumentMoniker": "StudentTester\\StudentTester.csproj",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTester\\StudentTester.csproj",
+              "RelativeToolTip": "StudentTester\\StudentTester.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T08:51:19.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV3\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTesterV3\\Entities\\Student.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV3\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTesterV3\\Entities\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:19:53.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV3\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV3\\Program.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV3\\Program.cs",
+              "RelativeToolTip": "StudentTesterV3\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:18:40.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV2\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Entities\\Student.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV2\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTesterV2\\Entities\\Student.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:07:37.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV2\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Program.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTesterV2\\Program.cs",
+              "RelativeToolTip": "StudentTesterV2\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:06:31.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTester\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Entities\\Student.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTester\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTester\\Entities\\Student.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:12:53.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTester\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Program.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session03-OOP\\StudentManager\\StudentTester\\Program.cs",
+              "RelativeToolTip": "StudentTester\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:07:50.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

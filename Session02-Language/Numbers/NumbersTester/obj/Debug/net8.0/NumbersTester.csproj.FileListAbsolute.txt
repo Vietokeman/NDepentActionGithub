@@ -1,0 +1,14 @@
+C:\Users\Viet\source\repos\Numbers\NumbersTester\bin\Debug\net8.0\NumbersTester.exe
+C:\Users\Viet\source\repos\Numbers\NumbersTester\bin\Debug\net8.0\NumbersTester.deps.json
+C:\Users\Viet\source\repos\Numbers\NumbersTester\bin\Debug\net8.0\NumbersTester.runtimeconfig.json
+C:\Users\Viet\source\repos\Numbers\NumbersTester\bin\Debug\net8.0\NumbersTester.dll
+C:\Users\Viet\source\repos\Numbers\NumbersTester\bin\Debug\net8.0\NumbersTester.pdb
+C:\Users\Viet\source\repos\Numbers\NumbersTester\obj\Debug\net8.0\NumbersTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viet\source\repos\Numbers\NumbersTester\obj\Debug\net8.0\NumbersTester.AssemblyInfoInputs.cache
+C:\Users\Viet\source\repos\Numbers\NumbersTester\obj\Debug\net8.0\NumbersTester.AssemblyInfo.cs
+C:\Users\Viet\source\repos\Numbers\NumbersTester\obj\Debug\net8.0\NumbersTester.csproj.CoreCompileInputs.cache
+C:\Users\Viet\source\repos\Numbers\NumbersTester\obj\Debug\net8.0\NumbersTester.dll
+C:\Users\Viet\source\repos\Numbers\NumbersTester\obj\Debug\net8.0\refint\NumbersTester.dll
+C:\Users\Viet\source\repos\Numbers\NumbersTester\obj\Debug\net8.0\NumbersTester.pdb
+C:\Users\Viet\source\repos\Numbers\NumbersTester\obj\Debug\net8.0\NumbersTester.genruntimeconfig.cache
+C:\Users\Viet\source\repos\Numbers\NumbersTester\obj\Debug\net8.0\ref\NumbersTester.dll

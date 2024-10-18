@@ -1,0 +1,13 @@
+E:\Ki5-FPT\PRN-212\Session02-Language\Health\Bmi\bin\Debug\net8.0\Bmi.deps.json
+E:\Ki5-FPT\PRN-212\Session02-Language\Health\Bmi\bin\Debug\net8.0\Bmi.dll
+E:\Ki5-FPT\PRN-212\Session02-Language\Health\Bmi\bin\Debug\net8.0\Bmi.pdb
+E:\Ki5-FPT\PRN-212\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki5-FPT\PRN-212\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfoInputs.cache
+E:\Ki5-FPT\PRN-212\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfo.cs
+E:\Ki5-FPT\PRN-212\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.csproj.CoreCompileInputs.cache
+E:\Ki5-FPT\PRN-212\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.dll
+E:\Ki5-FPT\PRN-212\Session02-Language\Health\Bmi\obj\Debug\net8.0\refint\Bmi.dll
+E:\Ki5-FPT\PRN-212\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.pdb
+E:\Ki5-FPT\PRN-212\Session02-Language\Health\Bmi\obj\Debug\net8.0\ref\Bmi.dll
+E:\Ki5-FPT\PRN-212\Session02-Language\Health\Bmi\bin\Debug\net8.0\Bmi.xml
+E:\Ki5-FPT\PRN-212\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.xml

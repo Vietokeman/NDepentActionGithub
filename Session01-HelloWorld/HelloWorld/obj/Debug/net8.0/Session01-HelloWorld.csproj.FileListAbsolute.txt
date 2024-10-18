@@ -1,0 +1,14 @@
+E:\Ki5-FPT\PRN-212\Session01-HelloWorld\HelloWorld\bin\Debug\net8.0\Session01-HelloWorld.exe
+E:\Ki5-FPT\PRN-212\Session01-HelloWorld\HelloWorld\bin\Debug\net8.0\Session01-HelloWorld.deps.json
+E:\Ki5-FPT\PRN-212\Session01-HelloWorld\HelloWorld\bin\Debug\net8.0\Session01-HelloWorld.runtimeconfig.json
+E:\Ki5-FPT\PRN-212\Session01-HelloWorld\HelloWorld\bin\Debug\net8.0\Session01-HelloWorld.dll
+E:\Ki5-FPT\PRN-212\Session01-HelloWorld\HelloWorld\bin\Debug\net8.0\Session01-HelloWorld.pdb
+E:\Ki5-FPT\PRN-212\Session01-HelloWorld\HelloWorld\obj\Debug\net8.0\Session01-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki5-FPT\PRN-212\Session01-HelloWorld\HelloWorld\obj\Debug\net8.0\Session01-HelloWorld.AssemblyInfoInputs.cache
+E:\Ki5-FPT\PRN-212\Session01-HelloWorld\HelloWorld\obj\Debug\net8.0\Session01-HelloWorld.AssemblyInfo.cs
+E:\Ki5-FPT\PRN-212\Session01-HelloWorld\HelloWorld\obj\Debug\net8.0\Session01-HelloWorld.csproj.CoreCompileInputs.cache
+E:\Ki5-FPT\PRN-212\Session01-HelloWorld\HelloWorld\obj\Debug\net8.0\Session01-HelloWorld.dll
+E:\Ki5-FPT\PRN-212\Session01-HelloWorld\HelloWorld\obj\Debug\net8.0\refint\Session01-HelloWorld.dll
+E:\Ki5-FPT\PRN-212\Session01-HelloWorld\HelloWorld\obj\Debug\net8.0\Session01-HelloWorld.pdb
+E:\Ki5-FPT\PRN-212\Session01-HelloWorld\HelloWorld\obj\Debug\net8.0\Session01-HelloWorld.genruntimeconfig.cache
+E:\Ki5-FPT\PRN-212\Session01-HelloWorld\HelloWorld\obj\Debug\net8.0\ref\Session01-HelloWorld.dll

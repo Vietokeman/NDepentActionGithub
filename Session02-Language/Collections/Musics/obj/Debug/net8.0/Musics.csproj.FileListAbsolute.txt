@@ -1,0 +1,14 @@
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.exe
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.deps.json
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.runtimeconfig.json
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.dll
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.pdb
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.AssemblyInfoInputs.cache
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.AssemblyInfo.cs
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.csproj.CoreCompileInputs.cache
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.dll
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Musics\obj\Debug\net8.0\refint\Musics.dll
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.pdb
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.genruntimeconfig.cache
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Musics\obj\Debug\net8.0\ref\Musics.dll

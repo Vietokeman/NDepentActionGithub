@@ -1,0 +1,14 @@
+E:\Ki5-FPT\PRN-212\Session04-Collections\BasicCollections\PrimitiveList\bin\Debug\net8.0\PrimitiveList.exe
+E:\Ki5-FPT\PRN-212\Session04-Collections\BasicCollections\PrimitiveList\bin\Debug\net8.0\PrimitiveList.deps.json
+E:\Ki5-FPT\PRN-212\Session04-Collections\BasicCollections\PrimitiveList\bin\Debug\net8.0\PrimitiveList.runtimeconfig.json
+E:\Ki5-FPT\PRN-212\Session04-Collections\BasicCollections\PrimitiveList\bin\Debug\net8.0\PrimitiveList.dll
+E:\Ki5-FPT\PRN-212\Session04-Collections\BasicCollections\PrimitiveList\bin\Debug\net8.0\PrimitiveList.pdb
+E:\Ki5-FPT\PRN-212\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki5-FPT\PRN-212\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.AssemblyInfoInputs.cache
+E:\Ki5-FPT\PRN-212\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.AssemblyInfo.cs
+E:\Ki5-FPT\PRN-212\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.csproj.CoreCompileInputs.cache
+E:\Ki5-FPT\PRN-212\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.dll
+E:\Ki5-FPT\PRN-212\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\refint\PrimitiveList.dll
+E:\Ki5-FPT\PRN-212\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.pdb
+E:\Ki5-FPT\PRN-212\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\PrimitiveList.genruntimeconfig.cache
+E:\Ki5-FPT\PRN-212\Session04-Collections\BasicCollections\PrimitiveList\obj\Debug\net8.0\ref\PrimitiveList.dll

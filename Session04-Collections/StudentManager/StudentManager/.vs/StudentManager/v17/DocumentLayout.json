@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30D9F5A3-8DEB-4EDD-BDD1-555AA9D5CDAB}|StudentTester\\StudentTester.csproj|e:\\ki5-fpt\\prn-212\\session04-collections\\studentmanager\\studentmanager\\studenttester\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D9F5A3-8DEB-4EDD-BDD1-555AA9D5CDAB}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB734CC7-BAA3-4FCD-8524-1301AE163B23}|StudentTesterV2\\StudentTesterV2.csproj|e:\\ki5-fpt\\prn-212\\session04-collections\\studentmanager\\studentmanager\\studenttesterv2\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB734CC7-BAA3-4FCD-8524-1301AE163B23}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB734CC7-BAA3-4FCD-8524-1301AE163B23}|StudentTesterV2\\StudentTesterV2.csproj|e:\\ki5-fpt\\prn-212\\session04-collections\\studentmanager\\studentmanager\\studenttesterv2\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB734CC7-BAA3-4FCD-8524-1301AE163B23}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB734CC7-BAA3-4FCD-8524-1301AE163B23}|StudentTesterV2\\StudentTesterV2.csproj|e:\\ki5-fpt\\prn-212\\session04-collections\\studentmanager\\studentmanager\\studenttesterv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB734CC7-BAA3-4FCD-8524-1301AE163B23}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D9F5A3-8DEB-4EDD-BDD1-555AA9D5CDAB}|StudentTester\\StudentTester.csproj|e:\\ki5-fpt\\prn-212\\session04-collections\\studentmanager\\studentmanager\\studenttester\\services\\lecturercabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D9F5A3-8DEB-4EDD-BDD1-555AA9D5CDAB}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\services\\lecturercabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB734CC7-BAA3-4FCD-8524-1301AE163B23}|StudentTesterV2\\StudentTesterV2.csproj|e:\\ki5-fpt\\prn-212\\session04-collections\\studentmanager\\studentmanager\\studenttesterv2\\studenttesterv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB734CC7-BAA3-4FCD-8524-1301AE163B23}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\studenttesterv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D9F5A3-8DEB-4EDD-BDD1-555AA9D5CDAB}|StudentTester\\StudentTester.csproj|e:\\ki5-fpt\\prn-212\\session04-collections\\studentmanager\\studentmanager\\studenttester\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D9F5A3-8DEB-4EDD-BDD1-555AA9D5CDAB}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D9F5A3-8DEB-4EDD-BDD1-555AA9D5CDAB}|StudentTester\\StudentTester.csproj|e:\\ki5-fpt\\prn-212\\session04-collections\\studentmanager\\studentmanager\\studenttester\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D9F5A3-8DEB-4EDD-BDD1-555AA9D5CDAB}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D9F5A3-8DEB-4EDD-BDD1-555AA9D5CDAB}|StudentTester\\StudentTester.csproj|e:\\ki5-fpt\\prn-212\\session04-collections\\studentmanager\\studentmanager\\studenttester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D9F5A3-8DEB-4EDD-BDD1-555AA9D5CDAB}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D9F5A3-8DEB-4EDD-BDD1-555AA9D5CDAB}|StudentTester\\StudentTester.csproj|e:\\ki5-fpt\\prn-212\\session04-collections\\studentmanager\\studentmanager\\studenttester\\studenttester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30D9F5A3-8DEB-4EDD-BDD1-555AA9D5CDAB}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\studenttester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB734CC7-BAA3-4FCD-8524-1301AE163B23}|StudentTesterV2\\StudentTesterV2.csproj|e:\\ki5-fpt\\prn-212\\session04-collections\\studentmanager\\studentmanager\\studenttesterv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB734CC7-BAA3-4FCD-8524-1301AE163B23}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentTesterV2.csproj",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTesterV2\\StudentTesterV2.csproj",
+              "RelativeDocumentMoniker": "StudentTesterV2\\StudentTesterV2.csproj",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTesterV2\\StudentTesterV2.csproj",
+              "RelativeToolTip": "StudentTesterV2\\StudentTesterV2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T08:40:48.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTesterV2\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Entities\\Student.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTesterV2\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTesterV2\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:40:43.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTesterV2\\Services\\Cabinet.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Services\\Cabinet.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTesterV2\\Services\\Cabinet.cs",
+              "RelativeToolTip": "StudentTesterV2\\Services\\Cabinet.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:36:09.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTesterV2\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Program.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTesterV2\\Program.cs",
+              "RelativeToolTip": "StudentTesterV2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:33:59.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LecturerCabinet.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTester\\Services\\LecturerCabinet.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Services\\LecturerCabinet.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTester\\Services\\LecturerCabinet.cs",
+              "RelativeToolTip": "StudentTester\\Services\\LecturerCabinet.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:17:57.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTester\\Entities\\Lecturer.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Entities\\Lecturer.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTester\\Entities\\Lecturer.cs",
+              "RelativeToolTip": "StudentTester\\Entities\\Lecturer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:10:07.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTester\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Entities\\Student.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTester\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTester\\Entities\\Student.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA0wA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:08:26.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTester\\Services\\Cabinet.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Services\\Cabinet.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTester\\Services\\Cabinet.cs",
+              "RelativeToolTip": "StudentTester\\Services\\Cabinet.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAuwIQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:19:51.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTesterV2\\Entities\\Lecturer.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Entities\\Lecturer.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTesterV2\\Entities\\Lecturer.cs",
+              "RelativeToolTip": "StudentTesterV2\\Entities\\Lecturer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:40:45.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentTester.csproj",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTester\\StudentTester.csproj",
+              "RelativeDocumentMoniker": "StudentTester\\StudentTester.csproj",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTester\\StudentTester.csproj",
+              "RelativeToolTip": "StudentTester\\StudentTester.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T10:34:01.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTester\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Program.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session04-Collections\\StudentManager\\StudentManager\\StudentTester\\Program.cs",
+              "RelativeToolTip": "StudentTester\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:07:18.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

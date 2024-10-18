@@ -1,0 +1,14 @@
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.exe
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.deps.json
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.runtimeconfig.json
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.dll
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.pdb
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.AssemblyInfoInputs.cache
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.AssemblyInfo.cs
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.csproj.CoreCompileInputs.cache
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.dll
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Poems\obj\Debug\net8.0\refint\Poems.dll
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.pdb
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.genruntimeconfig.cache
+E:\Ki5-FPT\PRN-212\Session02-Language\Collections\Poems\obj\Debug\net8.0\ref\Poems.dll

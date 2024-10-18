@@ -1,0 +1,1 @@
+Lenh trong cmd: dir de hien file dll exe

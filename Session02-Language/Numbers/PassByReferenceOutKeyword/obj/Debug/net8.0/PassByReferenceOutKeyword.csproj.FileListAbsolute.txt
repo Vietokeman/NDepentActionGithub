@@ -1,0 +1,14 @@
+E:\Ki5-FPT\PRN-212\Session02-Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.exe
+E:\Ki5-FPT\PRN-212\Session02-Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.deps.json
+E:\Ki5-FPT\PRN-212\Session02-Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.runtimeconfig.json
+E:\Ki5-FPT\PRN-212\Session02-Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.dll
+E:\Ki5-FPT\PRN-212\Session02-Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.pdb
+E:\Ki5-FPT\PRN-212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki5-FPT\PRN-212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.AssemblyInfoInputs.cache
+E:\Ki5-FPT\PRN-212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.AssemblyInfo.cs
+E:\Ki5-FPT\PRN-212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.csproj.CoreCompileInputs.cache
+E:\Ki5-FPT\PRN-212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.dll
+E:\Ki5-FPT\PRN-212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\refint\PassByReferenceOutKeyword.dll
+E:\Ki5-FPT\PRN-212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.pdb
+E:\Ki5-FPT\PRN-212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.genruntimeconfig.cache
+E:\Ki5-FPT\PRN-212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\ref\PassByReferenceOutKeyword.dll

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bmi</name>
+    </assembly>
+    <members>
+        <member name="T:Bmi.BmiCalculator">
+            <summary>
+            This class offers methods for evaluating the healthy status based on weight and height.
+            </summary>
+        </member>
+        <member name="M:Bmi.BmiCalculator.GetBmi(System.Double,System.Double)">
+            <summary>
+            Returns the BMI indicator of someone
+            Hàm trả về chỉ số BMI của ai đó.
+            </summary>
+            <param name="w">Weight is under kg</param>
+            <param name="h">Height is under m</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

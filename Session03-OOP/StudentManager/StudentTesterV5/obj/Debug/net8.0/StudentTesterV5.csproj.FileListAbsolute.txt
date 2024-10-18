@@ -1,0 +1,14 @@
+E:\Ki5-FPT\PRN-212\Session03-OOP\StudentManager\StudentTesterV5\bin\Debug\net8.0\StudentTesterV5.exe
+E:\Ki5-FPT\PRN-212\Session03-OOP\StudentManager\StudentTesterV5\bin\Debug\net8.0\StudentTesterV5.deps.json
+E:\Ki5-FPT\PRN-212\Session03-OOP\StudentManager\StudentTesterV5\bin\Debug\net8.0\StudentTesterV5.runtimeconfig.json
+E:\Ki5-FPT\PRN-212\Session03-OOP\StudentManager\StudentTesterV5\bin\Debug\net8.0\StudentTesterV5.dll
+E:\Ki5-FPT\PRN-212\Session03-OOP\StudentManager\StudentTesterV5\bin\Debug\net8.0\StudentTesterV5.pdb
+E:\Ki5-FPT\PRN-212\Session03-OOP\StudentManager\StudentTesterV5\obj\Debug\net8.0\StudentTesterV5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki5-FPT\PRN-212\Session03-OOP\StudentManager\StudentTesterV5\obj\Debug\net8.0\StudentTesterV5.AssemblyInfoInputs.cache
+E:\Ki5-FPT\PRN-212\Session03-OOP\StudentManager\StudentTesterV5\obj\Debug\net8.0\StudentTesterV5.AssemblyInfo.cs
+E:\Ki5-FPT\PRN-212\Session03-OOP\StudentManager\StudentTesterV5\obj\Debug\net8.0\StudentTesterV5.csproj.CoreCompileInputs.cache
+E:\Ki5-FPT\PRN-212\Session03-OOP\StudentManager\StudentTesterV5\obj\Debug\net8.0\StudentTesterV5.dll
+E:\Ki5-FPT\PRN-212\Session03-OOP\StudentManager\StudentTesterV5\obj\Debug\net8.0\refint\StudentTesterV5.dll
+E:\Ki5-FPT\PRN-212\Session03-OOP\StudentManager\StudentTesterV5\obj\Debug\net8.0\StudentTesterV5.pdb
+E:\Ki5-FPT\PRN-212\Session03-OOP\StudentManager\StudentTesterV5\obj\Debug\net8.0\StudentTesterV5.genruntimeconfig.cache
+E:\Ki5-FPT\PRN-212\Session03-OOP\StudentManager\StudentTesterV5\obj\Debug\net8.0\ref\StudentTesterV5.dll

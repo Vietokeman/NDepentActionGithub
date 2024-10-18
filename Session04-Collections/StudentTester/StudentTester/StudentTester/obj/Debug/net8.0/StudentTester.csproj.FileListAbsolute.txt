@@ -1,0 +1,14 @@
+D:\Ky 5 FPT\PRN212\Sessison04-Collection\StudentTester\StudentTester\bin\Debug\net8.0\StudentTester.exe
+D:\Ky 5 FPT\PRN212\Sessison04-Collection\StudentTester\StudentTester\bin\Debug\net8.0\StudentTester.deps.json
+D:\Ky 5 FPT\PRN212\Sessison04-Collection\StudentTester\StudentTester\bin\Debug\net8.0\StudentTester.runtimeconfig.json
+D:\Ky 5 FPT\PRN212\Sessison04-Collection\StudentTester\StudentTester\bin\Debug\net8.0\StudentTester.dll
+D:\Ky 5 FPT\PRN212\Sessison04-Collection\StudentTester\StudentTester\bin\Debug\net8.0\StudentTester.pdb
+D:\Ky 5 FPT\PRN212\Sessison04-Collection\StudentTester\StudentTester\obj\Debug\net8.0\StudentTester.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 5 FPT\PRN212\Sessison04-Collection\StudentTester\StudentTester\obj\Debug\net8.0\StudentTester.AssemblyInfoInputs.cache
+D:\Ky 5 FPT\PRN212\Sessison04-Collection\StudentTester\StudentTester\obj\Debug\net8.0\StudentTester.AssemblyInfo.cs
+D:\Ky 5 FPT\PRN212\Sessison04-Collection\StudentTester\StudentTester\obj\Debug\net8.0\StudentTester.csproj.CoreCompileInputs.cache
+D:\Ky 5 FPT\PRN212\Sessison04-Collection\StudentTester\StudentTester\obj\Debug\net8.0\StudentTester.dll
+D:\Ky 5 FPT\PRN212\Sessison04-Collection\StudentTester\StudentTester\obj\Debug\net8.0\refint\StudentTester.dll
+D:\Ky 5 FPT\PRN212\Sessison04-Collection\StudentTester\StudentTester\obj\Debug\net8.0\StudentTester.pdb
+D:\Ky 5 FPT\PRN212\Sessison04-Collection\StudentTester\StudentTester\obj\Debug\net8.0\StudentTester.genruntimeconfig.cache
+D:\Ky 5 FPT\PRN212\Sessison04-Collection\StudentTester\StudentTester\obj\Debug\net8.0\ref\StudentTester.dll

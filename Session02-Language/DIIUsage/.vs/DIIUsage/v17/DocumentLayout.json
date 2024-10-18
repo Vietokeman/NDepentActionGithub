@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ki5-FPT\\PRN-212\\Session02-Language\\DIIUsage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{159D8594-2063-40E9-A05E-C4FE2D06B34C}|BmiTester\\BmiTester.csproj|e:\\ki5-fpt\\prn-212\\session02-language\\diiusage\\bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159D8594-2063-40E9-A05E-C4FE2D06B34C}|BmiTester\\BmiTester.csproj|solutionrelative:bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ki5-FPT\\PRN-212\\Session02-Language\\DIIUsage\\BmiTester\\Program.cs",
+              "RelativeDocumentMoniker": "BmiTester\\Program.cs",
+              "ToolTip": "E:\\Ki5-FPT\\PRN-212\\Session02-Language\\DIIUsage\\BmiTester\\Program.cs",
+              "RelativeToolTip": "BmiTester\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:13:05.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
